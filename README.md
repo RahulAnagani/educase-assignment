@@ -1,16 +1,34 @@
-<<<<<<< HEAD
-# EduCase-Assignment
-=======
-# React + Vite
+# EduCase Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple instructions to clone and run the project locally.
 
-Currently, two official plugins are available:
+##  Clone the Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/RahulAnagani/EduCase-Assignment.git
+cd EduCase-Assignment
+```
 
-## Expanding the ESLint configuration
+##  Install Dependencies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 4c64fa2 (asdf)
+```bash
+npm install
+```
+
+## ▶ Run the Project
+
+```bash
+npm run dev
+```
+
+> Adjust the command above if you use `yarn` or a different script like `npm start`.
+
+---
+
+##  Requirements
+
+- Git
+- Node.js
+- npm or yarn
+
+---
