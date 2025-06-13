@@ -12,7 +12,7 @@ const Profile=()=>{
                         <div className="w-full flex h-[50%]">
                             <div className="w-[30%] flex relative items-center justify-center h-full">
                                 <div className="w-full h-full flex items-center justify-center">
-                                <img src="/profile.jpg" className="w-[60%] h-[60%] rounded-full object-cover"></img>
+                                <img src="/profile.jpg" className="w-[60%] h-[70%] rounded-full object-cover"></img>
                                 <img src="/camera.svg" className="absolute rounded-full w-8 h-8 cursor-pointer right-5 top-[60%]"></img>
                                 </div>
                             </div>
@@ -25,7 +25,7 @@ const Profile=()=>{
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia expedita corrupti sequi laborum quam esse veniam cum nisi id assumenda!</p>
                         </div>
                     </div>
-                    <div className="w-full h-[55%] border  border-2 border-r-0 border-l-0 border-dashed border-gray-300"></div>
+                    <div className="w-full h-[55%]   border-2 border-r-0 border-l-0 border-dashed border-gray-300"></div>
             </div>
        </div>
     </>
